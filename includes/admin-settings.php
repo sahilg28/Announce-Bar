@@ -2,7 +2,6 @@
 /**
  * Admin settings for AnnounceBar
  */
-
 if (!defined('ABSPATH')) {
     exit;
 }
